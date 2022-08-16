@@ -96,8 +96,8 @@ function Kavo.CreateLib(kavName, themeList)
     if not themeList then
         themeList = themes
     end
-    
-    elseif themeList == "Serpent" then
+
+    if themeList == "Serpent" then
         themeList = themeStyles.Serpent
     else
         if themeList.SchemeColor == nil then

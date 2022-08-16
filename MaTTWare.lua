@@ -50,7 +50,7 @@ end
 
 
 local themes = {
-    SchemeColor = Color3.fromRGB(74, 99, 135),
+    SchemeColor = Color3.fromRGB(62, 117, 46),
     Background = Color3.fromRGB(6, 37, 43),
     Header = Color3.fromRGB(28, 29, 34),
     TextColor = Color3.fromRGB(21, 21, 38),
